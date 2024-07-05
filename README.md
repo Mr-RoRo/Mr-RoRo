@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-roro" alt="mr-roro" /></a> </p>
 
-- 🌱 I’m currently learning **React and NextJs**
+- 🌱 I’m currently working on **Movazee**
 
 - 📫 How to reach me **fsoocity@gmail.com**
 
